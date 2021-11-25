@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zakopako
 - 👀 I’m interested in data, ai, and software devlopment
-- 🌱 I’m currently working on my portfolio
+- 🌱 I’m currently working on my portfolio IOT get a job :D
 - 📫 You can reach me @ elmasri.zakariya@gmail.com
 
 <!---
